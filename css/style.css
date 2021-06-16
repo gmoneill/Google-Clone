@@ -1,0 +1,9 @@
+.navbar-left{
+    display: block;
+    float: left;
+}
+
+.navbar-right{
+    display: block;
+    float: right;
+}
