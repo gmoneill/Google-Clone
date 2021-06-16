@@ -1,0 +1,1 @@
+This project is intended to clone the standard Google homepage as a way to demonstrate learned HTML and CSS skills. 
