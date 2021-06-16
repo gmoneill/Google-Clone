@@ -15,6 +15,13 @@
 }
 
 .middle-part{
-    text-align: center;
     margin-top: 200px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.searchbar{
+    text-align: center;
 }
