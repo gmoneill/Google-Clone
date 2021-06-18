@@ -31,7 +31,16 @@ a{
     right: 20px;
     margin-top: 10px;
 }
-
+.sign-in-button{
+    background-color: #1a73e8;
+    color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: white;
+    padding: 8px 16px;
+    margin-right: 18px
+    font-size: 16px;
+}
 .middle-part{
     margin-top: 200px;
 }
