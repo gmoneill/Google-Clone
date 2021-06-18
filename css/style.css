@@ -30,3 +30,18 @@
     text-align: center;
     margin-top: 15px;
 }
+
+footer{
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.footer-left{
+    float: left;
+}
+
+.footer-right{
+    float: right;
+}
