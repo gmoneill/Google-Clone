@@ -23,6 +23,7 @@ a{
     float: left;
     margin-top: 15px;
     margin-left: 20px;
+    font-size: 13px;
 }
 
 .navbar-right{
@@ -31,6 +32,7 @@ a{
     top: 0;
     right: 20px;
     margin-top: 10px;
+    font-size: 13px;
 }
 .sign-in-button{
     background-color: #1a73e8;
@@ -60,7 +62,7 @@ a{
     width: 400px;
     padding: 8px 3px;
     border-style: solid;
-    
+
 }
 
 .search-buttons{
@@ -79,8 +81,10 @@ footer{
 }
 .footer-left{
     float: left;
+    font-size: 14px;
 }
 
 .footer-right{
     float: right;
+    font-size: 14px;
 }
