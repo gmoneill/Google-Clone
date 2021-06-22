@@ -54,16 +54,25 @@ a{
 
 .searchbar{
     text-align: center;
-    margin-top: 20px; 
+  
 }
-
+.searchicon{
+    height: 12px;
+    width: 12px;
+    position: relative;
+    left: 20px;
+    z-index: 1;   
+}
 #search-input{
-    border-radius: 15px;
-    width: 400px;
+    width: 500px;
     padding: 8px 3px;
+    margin-top: 15px;
+    border-radius: 18px;  
     border-style: solid;
-
+    position: relative;
+    right: 20px;
 }
+
 
 .search-buttons{
     text-align: center;
