@@ -26,6 +26,9 @@ a{
     font-size: 13px;
 }
 
+.about{
+    margin-right: 10px;
+}
 .navbar-right{
     display: inline-block;
     position: fixed;
