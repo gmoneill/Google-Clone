@@ -73,12 +73,31 @@ a{
     right: 20px;
 }
 
-
 .search-buttons{
     text-align: center;
     margin-top: 20px;
 }
 
+.search-button{
+    background-color: #f8f9fa;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    color: gray;
+}
+
+.lucky-button{
+    background-color: #f8f9fa;
+    margin-left: 5px;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    color: gray;
+}
 footer{
     display: inline-block;
     position: fixed;
