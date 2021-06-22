@@ -22,6 +22,7 @@ a{
     top: 0;
     float: left;
     margin-top: 15px;
+    margin-left: 20px;
 }
 
 .navbar-right{
@@ -51,7 +52,15 @@ a{
 
 .searchbar{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 20px; 
+}
+
+#search-input{
+    border-radius: 15px;
+    width: 400px;
+    padding: 8px 3px;
+    border-style: solid;
+    
 }
 
 .search-buttons{
